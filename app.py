@@ -5,4 +5,14 @@ def luas_segitiga():
     print("Luas segitiga adalah: ", luas)
 
     luas_segitiga()
-    fsfsd
+    
+
+    def luas_persegi_panjang():
+       a = int(input("Masukkan alas persegi panjang: "))
+       t = int(input("Masukkan lebar persegi : "))
+       luas = p * l 
+    print("Luas persegi adalah: ", luas)
+
+    luas_persegi_panjang()
+print('')
+    
